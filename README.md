@@ -15,7 +15,7 @@ O chatbot, que você pode acessar no repositório aqui, foi desenvolvido em Java
 
 * link do back do projeto -> [projeto](https://github.com/mateus26game/site-chat-bot-IA)
 
-* link do video do projeto -> [video](https://github.com/mateus26game/site-chat-bot-IA)
+* link do video do projeto -> [video](https://youtu.be/8uTWnjVfj9Q)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
